@@ -31,7 +31,7 @@ To avoid problems with firewalls/antivirus checker, please do **not include** an
 
 Test the two provided API&#39;s under test by employing automated C# acceptance tests (preferably .Net Core). The Test Solution may be expanded on in the future, so please use SOLID principles in its implementation.
 
-Note: The test Requirements are sparse to let us see what tests you would think of without being boxed in.
+Note: The test Requirements are sparse to let us see what tests you would think of without being boxed in. Think of as many test scenarios you can by simply exploring the API&#39;s under test.
 
 Report your findings and indicate whether you would sign off the implementation for release into production?
 
